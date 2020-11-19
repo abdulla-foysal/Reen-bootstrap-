@@ -1,0 +1,151 @@
+*{margin: 0;
+padding: 0}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #506A86 !important;
+}
+
+#navbarSupportedContent a {
+    display: inline-block;
+    color: #506A86 !important;
+    font-weight: bold;
+    padding: 13px;
+
+}
+
+#intro {
+    background-image: url(images/slider01.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#intro-caption {
+    padding: 10% 0px;
+}
+
+#intro h1 {
+    text-transform: uppercase !important;
+    text-align: center !important;
+    color: aliceblue !important;
+    font-weight: bold;
+    font-size: 60px;
+
+
+}
+
+#intro p {
+
+    text-align: center !important;
+    color: #9BA9B9 !important;
+    line-height: 150%;
+    font-weight: 600
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.btext {
+    color: #516B83 !important;
+    text-align: center !important;
+
+}
+.bluetext {
+    color: #516B83 !important;
+    text-align: center !important;
+
+}
+
+.stext {
+    color: #7B8B9D !important;
+    text-align: center !important;
+
+}
+
+.carousel .carousel-indicators li {
+ width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+.carousel-indicators {
+    bottom: -60px;
+}
+#work {
+    background-color: #E6E6E6;
+    padding-bottom: 50px;
+}
+
+.touchbutton {
+    background: #00BC9C;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 13px 40px;
+    font-weight:bold;
+
+
+}
+.touchbutton:hover{
+    background-color:cornflowerblue;
+}
+
+
+#footer-top{
+    background-color: #2F4052;
+    color: aliceblue
+    
+}
+#footer-top h4{
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#footer-top p{
+    color: #8696A6;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+#footer-top img{
+    padding: 2px;
+}
+#emailinput{
+    background-color: #4F5C6C;
+     padding:2px;
+    width: 100%;
+    outline: none;
+    
+}
+
+#butin{
+    position: relative;
+}
+#subs{
+    position: absolute;
+    
+    background: #00BC9C;
+    display: inline-block;
+    padding: 1px 1px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 10px;
+    top: 128px;
+    left:210px;
+}
+#footerbottom{
+    background-color:#293646;
+    
+}
+#footermenu li{
+    list-style: none;
+}
+.bottommenu{
+    display: inline-block !important;
+    text-decoration: none!important;
+    color: #7B8B9D!important;
+}
+.bottommenu:hover{
+    color: beige!important;
+}
